@@ -15,6 +15,7 @@ This model can then be used to predict the breed of a dog from its image.
 The dataset of dogs was obtained from http://vision.stanford.edu/aditya86/ImageNetDogs/. 
 
 <img width="706" alt="Screenshot 2024-01-25 at 2 11 58 AM" src="https://github.com/Jai0212/Dog-Breed-Identifier-CNN/assets/86296165/109328e5-b613-4884-a5a3-e848f0878d16">
+  
 The above are the predictions made by the CNN for different breeds of dogs.
 
 ## Features
@@ -31,7 +32,7 @@ or runtime errors and still providing quite accurate results.
 
 <img width="1222" alt="Screenshot 2024-01-25 at 2 22 07 AM" src="https://github.com/Jai0212/Dog-Breed-Identifier-CNN/assets/86296165/e7f99195-de82-454c-8b62-22f5ffa79640">
 
-<img width="952" alt="Screenshot 2024-01-18 at 2 01 32 AM" src="https://github.com/Jai0212/Dog-Breed-Identifier-CNN/assets/86296165/7e96801b-0918-4f1f-ae81-8337e08d57a3">
+<img width="700" alt="Screenshot 2024-01-18 at 2 01 32 AM" src="https://github.com/Jai0212/Dog-Breed-Identifier-CNN/assets/86296165/7e96801b-0918-4f1f-ae81-8337e08d57a3">
 
 The graphs above show the accuracy and loss graphs with 10 epochs (y axis). The last image is the console log during the
 training of the model.  
