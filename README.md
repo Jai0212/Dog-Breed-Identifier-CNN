@@ -12,9 +12,9 @@ The entire module is then compiled using the 'adam' optimizer and runs for 10 ep
 
 This model can then be used to predict the breed of a dog from its image.
 
-The dataset of dogs was obtained from http://vision.stanford.edu/aditya86/ImageNetDogs/.  
+The dataset of dogs was obtained from http://vision.stanford.edu/aditya86/ImageNetDogs/. 
 
-![Screenshot 2024-01-25 at 2.11.58 AM.png](..%2F..%2FDownloads%2FScreenshot%202024-01-25%20at%202.11.58%E2%80%AFAM.png)
+<img width="706" alt="Screenshot 2024-01-25 at 2 11 58 AM" src="https://github.com/Jai0212/Dog-Breed-Identifier-CNN/assets/86296165/109328e5-b613-4884-a5a3-e848f0878d16">
 The above are the predictions made by the CNN for different breeds of dogs.
 
 ## Features
@@ -29,9 +29,9 @@ size with more layers and an overall refined model (which requires more time and
 * The model is also not too heavy and is thus able to run on a normal laptop efficiently, avoiding any out of memory 
 or runtime errors and still providing quite accurate results.
 
+<img width="1222" alt="Screenshot 2024-01-25 at 2 22 07 AM" src="https://github.com/Jai0212/Dog-Breed-Identifier-CNN/assets/86296165/e7f99195-de82-454c-8b62-22f5ffa79640">
 
-![Screenshot 2024-01-25 at 2.22.07 AM.png](..%2F..%2FDownloads%2FScreenshot%202024-01-25%20at%202.22.07%E2%80%AFAM.png)
-![Screenshot 2024-01-18 at 2.01.32 AM.png](..%2F..%2FDownloads%2FScreenshot%202024-01-18%20at%202.01.32%E2%80%AFAM.png)
+<img width="952" alt="Screenshot 2024-01-18 at 2 01 32 AM" src="https://github.com/Jai0212/Dog-Breed-Identifier-CNN/assets/86296165/7e96801b-0918-4f1f-ae81-8337e08d57a3">
 
 The graphs above show the accuracy and loss graphs with 10 epochs (y axis). The last image is the console log during the
 training of the model.  
