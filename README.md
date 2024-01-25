@@ -57,7 +57,7 @@ modify the model you can check its statistics from this file.
 * The **user.py** file is for the user interface which allows the user to test the model by uploading images.  
 * The user will upload the images under **'images_to_be_identified_user'**.  
 * The images of the dogs (dataset) are under **'data'**. Under 'data' there are folders for each dog breed containing 
-images for each dog breed.  
+images for each dog breed. (Couldn't be uploaded to GitHub due to huge file size)    
 * The model that I have created is stored under **'models'** as a .h5 file.  
 * The .mat files, which contain the data for whether the image is for testing or training are under **mat_files**.  
 
